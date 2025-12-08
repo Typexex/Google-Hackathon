@@ -15,7 +15,7 @@ Gemini 2.5 Pro: Reviews the logic, fixes shortcomings.
 Gemini 2.5 Pro: Reviews all the work done by the models, if it finds errors it fixes them, if not, it immediately writes a brief summary of what was done.
 
 About the repository:
-/Output_Demo: Generated website created with one prompt through Gemini Heavy 0.1
+/Generated_WebGL_Project: Generated website created with one prompt through Gemini Heavy 0.1
 
 /Agent_Core_Logic: contains the proprietary file GeminiHeavy_Core_Logic.kt. This file demonstrates the multi-model algorithm on which the IDE is based, without full code disclosure.
 
