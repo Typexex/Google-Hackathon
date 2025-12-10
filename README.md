@@ -33,11 +33,9 @@ Link: https://youtu.be/RP3VOBRx8HQ?si=_4C6e1Fn-lRqljwc
 # Note on Intellectual Property Protection:
 The full source code of the Android application is not disclosed, as Hameleon is an unreleased proprietary IDE from TypexAI. We have provided the necessary logic files and final result to fully demonstrate the advanced capabilities of using the Gemini API.
 
-# End
+# Developer of Hameleon and Gemini Heavy 0.1, Nikita Resetnjov (14 y/o)
 
-Developer of Hameleon and Gemini Heavy 0.1, Nikita Resetnjov (14 y/o)
-
-Thank you!
+**Thank you!**
 
 2025, For Google Hackathon.
 Also, after the hackathon, the model will be renamed so as not to infringe on Google copyright.
