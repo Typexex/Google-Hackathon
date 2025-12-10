@@ -20,7 +20,7 @@ About the repository:
 /Agent_Core_Logic: contains the proprietary file GeminiHeavy_Core_Logic.kt. This file demonstrates the multi-model algorithm on which the IDE is based, without full code disclosure.
 
 Video demonstration of Hameleon IDE (user interface, file structure) and real-time generation process. 
-Link: https://youtu.be/RP3VOBRx8HQ
+Link: https://youtu.be/RP3VOBRx8HQ?si=_4C6e1Fn-lRqljwc
 
 **Note on Intellectual Property Protection:**
 The full source code of the Android application is not disclosed, as Hameleon is an unreleased proprietary IDE from TypexAI. We have provided the necessary logic files and final result to fully demonstrate the advanced capabilities of using the Gemini API.
