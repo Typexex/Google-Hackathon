@@ -36,6 +36,13 @@ The full source code of the Android application is not disclosed, as Hameleon is
 
 **Developer of Hameleon and Gemini Heavy 0.1, Nikita Resetnjov (14 y/o)**
 
+To contact us, please use the appropriate domains:
+
+For legal questions: legal@bardotypexai.com
+If there have been any violations: dmca@bardotypexai.com
+
+Just to chat: support@bardotypexai.com
+
 **Thank you!**
 
 2025, For Google Hackathon.
