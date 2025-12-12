@@ -39,6 +39,7 @@ The full source code of the Android application is not disclosed, as Hameleon is
 To contact us, please use the appropriate domains:
 
 For legal questions: legal@bardotypexai.com
+
 If there have been any violations: dmca@bardotypexai.com
 
 Just to chat: support@bardotypexai.com
