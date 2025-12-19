@@ -48,3 +48,7 @@ Just to chat: support@bardotypexai.com
 
 2025, For Google Hackathon.
 Also, after the hackathon, the model will be renamed so as not to infringe on Google copyright.
+
+Changed:
+
+If I win, instead of $10,000, please give me the Android plush toy that you have on your website shop.merch.google for $36, because delivery to Estonia is not available :(
